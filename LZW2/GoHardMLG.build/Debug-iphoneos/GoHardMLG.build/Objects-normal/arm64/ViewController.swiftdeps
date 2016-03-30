@@ -1,0 +1,349 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C9GoHardMLG14ViewController"
+provides-member:
+- ["C9GoHardMLG14ViewController", ""]
+provides-dynamic-lookup:
+- "motionEnded"
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+- "audioPlayer"
+- "onButtonPress"
+- "canBecomeFirstResponder"
+depends-top-level:
+- "AnyObject"
+- "UIEventSubtype"
+- "ViewController"
+- "UIViewController"
+- !private "BooleanLiteralType"
+- "AVAudioPlayer"
+- "Bool"
+- "StringLiteralType"
+- "NSBundle"
+- !private "=="
+- "UIEvent"
+- "NSURL"
+depends-member:
+- ["CSo13AVAudioPlayer", "init"]
+- !private ["CSo13AVAudioPlayer", "play"]
+- !private ["CSo13AVAudioPlayer", "prepareToPlay"]
+- ["Ps9AnyObject", "AVAudioPlayer"]
+- ["Ps9AnyObject", "NSBundle"]
+- ["Ps9AnyObject", "NSURL"]
+- ["Ps9AnyObject", "audioPlayer"]
+- ["Ps9AnyObject", "canBecomeFirstResponder"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "mainBundle"]
+- ["Ps9AnyObject", "motionEnded"]
+- ["Ps9AnyObject", "onButtonPress"]
+- ["Ps9AnyObject", "pathForResource"]
+- !private ["Ps9AnyObject", "play"]
+- !private ["Ps9AnyObject", "prepareToPlay"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- ["Ps11CVarArgType", "AVAudioPlayer"]
+- ["Ps11CVarArgType", "NSBundle"]
+- ["Ps11CVarArgType", "NSURL"]
+- ["Ps11CVarArgType", "audioPlayer"]
+- ["Ps11CVarArgType", "canBecomeFirstResponder"]
+- ["Ps11CVarArgType", "didReceiveMemoryWarning"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "mainBundle"]
+- ["Ps11CVarArgType", "motionEnded"]
+- ["Ps11CVarArgType", "onButtonPress"]
+- ["Ps11CVarArgType", "pathForResource"]
+- !private ["Ps11CVarArgType", "play"]
+- !private ["Ps11CVarArgType", "prepareToPlay"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "AVAudioPlayer"]
+- ["Ps28CustomDebugStringConvertible", "NSBundle"]
+- ["Ps28CustomDebugStringConvertible", "NSURL"]
+- ["Ps28CustomDebugStringConvertible", "audioPlayer"]
+- ["Ps28CustomDebugStringConvertible", "canBecomeFirstResponder"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "mainBundle"]
+- ["Ps28CustomDebugStringConvertible", "motionEnded"]
+- ["Ps28CustomDebugStringConvertible", "onButtonPress"]
+- ["Ps28CustomDebugStringConvertible", "pathForResource"]
+- !private ["Ps28CustomDebugStringConvertible", "play"]
+- !private ["Ps28CustomDebugStringConvertible", "prepareToPlay"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "AVAudioPlayer"]
+- ["Ps23CustomStringConvertible", "NSBundle"]
+- ["Ps23CustomStringConvertible", "NSURL"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "audioPlayer"]
+- ["Ps23CustomStringConvertible", "canBecomeFirstResponder"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "mainBundle"]
+- ["Ps23CustomStringConvertible", "motionEnded"]
+- ["Ps23CustomStringConvertible", "onButtonPress"]
+- ["Ps23CustomStringConvertible", "pathForResource"]
+- !private ["Ps23CustomStringConvertible", "play"]
+- !private ["Ps23CustomStringConvertible", "prepareToPlay"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "AVAudioPlayer"]
+- !private ["Ps9Equatable", "MotionShake"]
+- ["Ps9Equatable", "NSBundle"]
+- ["Ps9Equatable", "NSURL"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "audioPlayer"]
+- ["Ps9Equatable", "canBecomeFirstResponder"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "mainBundle"]
+- ["Ps9Equatable", "motionEnded"]
+- ["Ps9Equatable", "onButtonPress"]
+- ["Ps9Equatable", "pathForResource"]
+- !private ["Ps9Equatable", "play"]
+- !private ["Ps9Equatable", "prepareToPlay"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "AVAudioPlayer"]
+- !private ["Ps8Hashable", "MotionShake"]
+- ["Ps8Hashable", "NSBundle"]
+- ["Ps8Hashable", "NSURL"]
+- !private ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "audioPlayer"]
+- ["Ps8Hashable", "canBecomeFirstResponder"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "mainBundle"]
+- ["Ps8Hashable", "motionEnded"]
+- ["Ps8Hashable", "onButtonPress"]
+- ["Ps8Hashable", "pathForResource"]
+- !private ["Ps8Hashable", "play"]
+- !private ["Ps8Hashable", "prepareToPlay"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["CSo8NSBundle", "mainBundle"]
+- ["CSo8NSBundle", "pathForResource"]
+- ["PSo8NSCoding", "AVAudioPlayer"]
+- ["PSo8NSCoding", "NSBundle"]
+- ["PSo8NSCoding", "NSURL"]
+- ["PSo8NSCoding", "audioPlayer"]
+- ["PSo8NSCoding", "canBecomeFirstResponder"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "motionEnded"]
+- ["PSo8NSCoding", "onButtonPress"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "AVAudioPlayer"]
+- ["PSo26NSExtensionRequestHandling", "NSBundle"]
+- ["PSo26NSExtensionRequestHandling", "NSURL"]
+- ["PSo26NSExtensionRequestHandling", "audioPlayer"]
+- ["PSo26NSExtensionRequestHandling", "canBecomeFirstResponder"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "motionEnded"]
+- ["PSo26NSExtensionRequestHandling", "onButtonPress"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AVAudioPlayer"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "NSBundle"]
+- ["CSo8NSObject", "NSURL"]
+- ["CSo8NSObject", "UIEvent"]
+- ["CSo8NSObject", "UIEventSubtype"]
+- ["CSo8NSObject", "audioPlayer"]
+- ["CSo8NSObject", "canBecomeFirstResponder"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "mainBundle"]
+- ["CSo8NSObject", "motionEnded"]
+- ["CSo8NSObject", "onButtonPress"]
+- ["CSo8NSObject", "pathForResource"]
+- !private ["CSo8NSObject", "play"]
+- !private ["CSo8NSObject", "prepareToPlay"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "AVAudioPlayer"]
+- ["PSo16NSObjectProtocol", "NSBundle"]
+- ["PSo16NSObjectProtocol", "NSURL"]
+- ["PSo16NSObjectProtocol", "audioPlayer"]
+- ["PSo16NSObjectProtocol", "canBecomeFirstResponder"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "mainBundle"]
+- ["PSo16NSObjectProtocol", "motionEnded"]
+- ["PSo16NSObjectProtocol", "onButtonPress"]
+- ["PSo16NSObjectProtocol", "pathForResource"]
+- !private ["PSo16NSObjectProtocol", "play"]
+- !private ["PSo16NSObjectProtocol", "prepareToPlay"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo5NSURL", "init"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "MotionShake"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- ["PSo21UIAppearanceContainer", "AVAudioPlayer"]
+- ["PSo21UIAppearanceContainer", "NSBundle"]
+- ["PSo21UIAppearanceContainer", "NSURL"]
+- ["PSo21UIAppearanceContainer", "audioPlayer"]
+- ["PSo21UIAppearanceContainer", "canBecomeFirstResponder"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "motionEnded"]
+- ["PSo21UIAppearanceContainer", "onButtonPress"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "AVAudioPlayer"]
+- ["PSo18UIContentContainer", "NSBundle"]
+- ["PSo18UIContentContainer", "NSURL"]
+- ["PSo18UIContentContainer", "audioPlayer"]
+- ["PSo18UIContentContainer", "canBecomeFirstResponder"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "motionEnded"]
+- ["PSo18UIContentContainer", "onButtonPress"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["OSC14UIEventSubtype", "MotionShake"]
+- !private ["OSC14UIEventSubtype", "RawValue"]
+- !private ["OSC14UIEventSubtype", "deinit"]
+- ["PSo18UIFocusEnvironment", "AVAudioPlayer"]
+- ["PSo18UIFocusEnvironment", "NSBundle"]
+- ["PSo18UIFocusEnvironment", "NSURL"]
+- ["PSo18UIFocusEnvironment", "audioPlayer"]
+- ["PSo18UIFocusEnvironment", "canBecomeFirstResponder"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "motionEnded"]
+- ["PSo18UIFocusEnvironment", "onButtonPress"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "AVAudioPlayer"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "NSBundle"]
+- ["CSo11UIResponder", "NSURL"]
+- ["CSo11UIResponder", "UIEvent"]
+- ["CSo11UIResponder", "UIEventSubtype"]
+- ["CSo11UIResponder", "audioPlayer"]
+- ["CSo11UIResponder", "canBecomeFirstResponder"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "motionEnded"]
+- ["CSo11UIResponder", "onButtonPress"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "AVAudioPlayer"]
+- ["PSo16UIStateRestoring", "NSBundle"]
+- ["PSo16UIStateRestoring", "NSURL"]
+- ["PSo16UIStateRestoring", "audioPlayer"]
+- ["PSo16UIStateRestoring", "canBecomeFirstResponder"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "motionEnded"]
+- ["PSo16UIStateRestoring", "onButtonPress"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "AVAudioPlayer"]
+- ["PSo18UITraitEnvironment", "NSBundle"]
+- ["PSo18UITraitEnvironment", "NSURL"]
+- ["PSo18UITraitEnvironment", "audioPlayer"]
+- ["PSo18UITraitEnvironment", "canBecomeFirstResponder"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "motionEnded"]
+- ["PSo18UITraitEnvironment", "onButtonPress"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "AVAudioPlayer"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "Bool"]
+- ["CSo16UIViewController", "NSBundle"]
+- ["CSo16UIViewController", "NSURL"]
+- ["CSo16UIViewController", "UIEvent"]
+- ["CSo16UIViewController", "UIEventSubtype"]
+- ["CSo16UIViewController", "audioPlayer"]
+- ["CSo16UIViewController", "canBecomeFirstResponder"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "motionEnded"]
+- ["CSo16UIViewController", "onButtonPress"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C9GoHardMLG14ViewController", "AVAudioPlayer"]
+- ["C9GoHardMLG14ViewController", "AnyObject"]
+- ["C9GoHardMLG14ViewController", "Bool"]
+- ["C9GoHardMLG14ViewController", "NSBundle"]
+- ["C9GoHardMLG14ViewController", "NSURL"]
+- ["C9GoHardMLG14ViewController", "UIEvent"]
+- ["C9GoHardMLG14ViewController", "UIEventSubtype"]
+- ["C9GoHardMLG14ViewController", "audioPlayer"]
+- ["C9GoHardMLG14ViewController", "canBecomeFirstResponder"]
+- ["C9GoHardMLG14ViewController", "deinit"]
+- ["C9GoHardMLG14ViewController", "didReceiveMemoryWarning"]
+- ["C9GoHardMLG14ViewController", "init"]
+- ["C9GoHardMLG14ViewController", "motionEnded"]
+- ["C9GoHardMLG14ViewController", "onButtonPress"]
+- ["C9GoHardMLG14ViewController", "viewDidLoad"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- ["Ps32_FileReferenceLiteralConvertible", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- ["Ps12_Reflectable", "init"]
+depends-nominal:
+- "CSo13AVAudioPlayer"
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo8NSBundle"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo5NSURL"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "OSC14UIEventSubtype"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C9GoHardMLG14ViewController"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- "Ps32_FileReferenceLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+interface-hash: "4e3734321597396ef61fa013a647fc24"
