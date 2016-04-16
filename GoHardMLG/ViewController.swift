@@ -11,7 +11,11 @@ import AVFoundation
 
 class ViewController: UIViewController {
 
-    var audioPlayer = try! AVAudioPlayer(contentsOfURL: NSURL(fileURLWithPath: NSBundle.mainBundle().pathForResource("AIRHORN", ofType: "mp3")!))
+    @IBAction func PressMe(sender: AnyObject) {
+        audioPlayer.play()
+        
+    }
+    var audioPlayer = try! AVAudioPlayer(contentsOfURL: NSURL(fileURLWithPath: NSBundle.mainBundle().pathForResource("realsong", ofType: "mp3")!))
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -36,11 +40,11 @@ class ViewController: UIViewController {
         return true
     }
     
-    override func motionEnded(motion: UIEventSubtype, withEvent event: UIEvent?) {
+    override func motionBegan(motion: UIEventSubtype, withEvent event: UIEvent?) {
         if motion == .MotionShake {
             audioPlayer.play();
         }
-        if motion == .
     }
+    
 }
 
